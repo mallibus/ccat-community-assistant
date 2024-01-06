@@ -1,10 +1,10 @@
 {
     "name": "Community Assistant",
-    "version": "0.0.1",
+    "version": "0.0.1 - DSS",
     "description": "Use it to create an Assistant for communities organizing events on meetup.com and events video on Youtube and other stuff.",
-    "author_name": "Alessandro Spallina",
+    "author_name": "Alessandro Spallina, Marcello Morchio",
     "author_url": "https://www.linkedin.com/in/alessandro-spallina/",
-    "plugin_url": "https://github.com/AlessandroSpallina/ccat-community-assistant",
+    "plugin_url": "https://github.com/mallibus/ccat-community-assistant",
     "tags": "cat, community, assistant, meetup, youtube, peertube",
-    "thumb": "https://raw.githubusercontent.com/AlessandroSpallina/ccat-community-assistant/main/img/icon2.png"
+    "thumb": "https://raw.githubusercontent.com/mallibus/ccat-community-assistant/main/img/basilio2-icon.png"
 }
